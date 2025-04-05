@@ -2,9 +2,9 @@
   "name": "Yu-zh/termbit",
   "version": "0.1.0",
   "readme": "README.md",
-  "repository": "",
+  "repository": "https://github.com/Yu-zh/termbit",
   "license": "Apache-2.0",
-  "keywords": ["terminal", "ansi", "ansi-escape-codes"],
-  "description": "A terminal library for MoonBit",
+  "keywords": ["console", "terminal", "color", "cursor", "tui"],
+  "description": "A terminal manipulation library written in MoonBit",
   "source": "src"
 }

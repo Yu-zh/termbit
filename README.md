@@ -1,8 +1,9 @@
 # Yu-zh/termbit
 
-A terminal library for MoonBit.
+A terminal manipulation library written in MoonBit. This repository is under
+development, and I have only tested it on macOS Sonama 14.6 (M1 Chip).
 
-Example usage:
+## Example usage:
 
 * Print "Hello, World!" in blue at position (10, 10) in the terminal.
 
@@ -38,3 +39,7 @@ fn main {
 }
 
 ```
+
+## Shoutout
+
+This project draws inspiration from [crossterm-rs](https://github.com/crossterm-rs/crossterm), an awesome cross-platform terminal manipulation library for Rust.
